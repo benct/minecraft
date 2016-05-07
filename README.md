@@ -7,10 +7,11 @@ Minecraft web and utility scripts
 
 Parsing of Minecraft player statistics files in JSON format.
 
-- Player statistics
+- General player statistics
 - Achievements
 - Exploration progress
-- Item statistics.
+- Entity statistics
+- Item statistics
 
 
 ### MCQuery
