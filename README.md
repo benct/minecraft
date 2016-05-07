@@ -30,3 +30,13 @@ Utility functions for interacting with the Mojang and Minecraft REST APIs.
 - Authentication for requests that require this
 - Mojang account information
 - Realm information
+
+
+## License
+
+This project is licensed under the MIT license.
+
+
+## About
+
+Code developed and maintained by [Ben Tomlin](http://tomlin.no).
